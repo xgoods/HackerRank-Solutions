@@ -15,6 +15,7 @@ import sys
 
 def breakingRecords(scores):
     # Write your code here
+    #testing commits
     minimum=0
     maximum=0
     temp=scores[0]
